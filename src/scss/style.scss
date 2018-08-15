@@ -1,0 +1,8 @@
+$primary-color:green;
+$secondary-color: blue;
+body {
+ background: $primary-color;
+}
+h1 {
+ color: $secondary-color;
+}
